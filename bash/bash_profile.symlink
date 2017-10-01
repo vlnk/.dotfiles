@@ -1,0 +1,11 @@
+#CARGO CONFIG
+export PATH=$PATH:"/home/vlnk/.cargo/bin"
+
+#GIT CONFIG
+export XDG_CONFIG_HOME="$HOME/.config"
+
+#TEXMF (LATEX) CONFIG
+export TEXMFHOME="$HOME/.config/texmf"
+
+#LINUX BREW
+export PATH=$PATH:"/home/linuxbrew/.linuxbrew/bin"

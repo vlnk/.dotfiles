@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = vlnk
+#	email = vlnk@protonmail.ch
+[user]
+	email = vlnk@protonmail.ch
+	name = vlnk
+[credential]
+	helper = cache
